@@ -221,37 +221,6 @@ const Footer = () => {
 
         </div>
       </div>
-      <div className="text-2xl font-semibold text-white mt-4 mb-6 flex-shrink-0">
-        <div className="container mx-auto flex flex-col items-center">
-          <h2 className="text-lg font-bold mb-6 font-mono text-gray-400">PARTNERS</h2>
-        </div>
-
-        <div className="flex flex-col sm:flex-row justify-center items-center w-full overflow-x-auto space-y-4 sm:space-y-0 sm:space-x-4">
-          <Image
-            src="/images/footer/brands/partner1.png"
-            height={60}
-            width={300}
-            alt="Partner 1"
-            className="h-8 w-auto sm:h-6 md:h-8 lg:h-10 object-contain"
-          />
-
-          <Image
-            src="/images/footer/brands/partner2.png"
-            height={40}
-            width={210}
-            alt="Partner 2"
-            className="h-6 w-auto sm:h-4 md:h-6 lg:h-8 object-contain"
-          />
-
-          <Image
-            src="/images/footer/brands/partner3.png"
-            height={40}
-            width={210}
-            alt="Partner 3"
-            className="h-6 w-auto sm:h-4 md:h-6 lg:h-8 object-contain"
-          />
-        </div>
-      </div>
       <span className="absolute right-0 top-0 z-[-1]">
         <svg
           width="102"
