@@ -485,12 +485,12 @@ const Footer = () => {
                 <p className="text-xs text-gray-7 text-center">
                   Designed and Developed by:{" "}
                   <a
-                    href="https://techwoozy.vercel.app/"
+                    href="/"
                     rel="nofollow noopner noreferrer"
                     target="_blank"
                     className="text-gray-1 hover:underline text-sm"
                   >
-                    TechWoozy LLC
+                    Abu Fahim Khan
                   </a>
                 </p>
               </div>
